@@ -1,0 +1,22 @@
+{
+    "permissive" : [
+        "MIT",
+        "BSD-2-Clause",
+        "Apache-2.0"
+    ],
+    "weakcopyleft" : [
+        "EPL-2.0",
+        "LGPL-2.1-or-later"
+    ],
+    "strongcopyleft" : [
+        "GPL-3.0",
+        "GPL-2.0-only",
+        "GPL-2.0-or-later"
+    ],
+    "networkprotective" : [
+        "AGPL-1.0-or-later",
+        "AGPL-1.0",
+        "AGPL-2.0",
+        "AGPL-3.0-or-later"
+    ]
+}
