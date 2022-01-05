@@ -1,0 +1,58 @@
+{
+  "licenseListVersion": "f9911cd",
+  "licenses": [
+    {
+      "licenseId": "AGPL-3.0-only",
+      "licenseFamily": "network copyleft"
+    },
+    {
+      "licenseId": "GPL-2.0",
+      "licenseFamily": "strong copyleft"
+    },
+    {
+      "licenseId": "EPL-2.0",
+      "licenseFamily": "weak copyleft"
+    },
+    {
+      "licenseId": "BSD-2-Clause",
+      "licenseFamily": "permissive"
+    },
+    {
+      "licenseId": "Apache-2.0",
+      "licenseFamily": "permissive"
+    },
+    {
+      "licenseId": "MIT",
+      "licenseFamily": "permissive"
+    },
+    {
+      "licenseId": "CC-BY-SA-1.0",
+      "licenseFamily": "strong copyleft"
+    },
+    {
+      "licenseId": "CC-BY-3.0-DE",
+      "licenseFamily": "permissive"
+    },
+    {
+      "licenseId": "LGPL-2.0+",
+      "licenseFamily": "weak copyleft"
+    },
+    {
+      "licenseId": "LGPL-2.0",
+      "licenseFamily": "weak copyleft"
+    },
+    {
+      "licenseId": "BSD-4-Clause",
+      "licenseFamily": "permissive"
+    },
+    {
+      "licenseId": "BSD-4-Clause-Shortened",
+      "licenseFamily": "permissive"
+    },
+    {
+      "licenseId": "BSD-3-Clause",
+      "licenseFamily": "permissive"
+    }
+  ],
+  "releaseDate": "2021-11-19"
+}
